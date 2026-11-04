@@ -1,0 +1,14 @@
+{
+  "runNumber": "6",
+  "sha": "f0a9705e777f8d1b06c7443cddab8667e363b422",
+  "repository": "meyuval/stonewake-final-repo",
+  "runUrl": "https://github.com/meyuval/stonewake-final-repo/actions/runs/41873454818",
+  "conclusion": "success",
+  "finishedAt": "2026-11-04T17:02:46.021Z",
+  "expected": 23,
+  "unexpected": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "durationMs": 28572,
+  "startTime": "2026-11-04T17:02:14.759Z"
+}
